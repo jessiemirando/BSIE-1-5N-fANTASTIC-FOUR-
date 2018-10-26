@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540539359 source:c:\users\win 10\desktop\fantastic\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<ctime>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cctype>
+
